@@ -1,2 +1,2 @@
 # powerbi-project-1_Sales_Dashboard
-This is power bi dashboard exhibiting insights about the trends of sales
+This is the power Bi dashboard exhibiting insights about the trends of sales.
